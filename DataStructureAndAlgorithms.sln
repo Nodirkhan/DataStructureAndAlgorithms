@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestGenericListNamedNodir", "Exams\TestGenericListNamedNodir.csproj", "{F673C3A0-AA14-48BD-98F2-41D691A78FB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{34EC97D6-9F74-4E01-AD09-5D8C76B38DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F673C3A0-AA14-48BD-98F2-41D691A78FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F673C3A0-AA14-48BD-98F2-41D691A78FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F673C3A0-AA14-48BD-98F2-41D691A78FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F673C3A0-AA14-48BD-98F2-41D691A78FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EC97D6-9F74-4E01-AD09-5D8C76B38DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EC97D6-9F74-4E01-AD09-5D8C76B38DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EC97D6-9F74-4E01-AD09-5D8C76B38DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EC97D6-9F74-4E01-AD09-5D8C76B38DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F32A887-464A-4CBF-8956-DE75D101C393}
+	EndGlobalSection
+EndGlobal
