@@ -9,8 +9,8 @@ namespace SortAlgorithms
         {
             //var result = SelectionSort.SelectionSortAlgorithms(Array);
             //var result = LinerSort.Algorithm(Array);
-            var result = QuickSort.SortArray(Array, 0, Array.Length -1 );
-
+            //var result = QuickSort.SortArray(Array, 0, Array.Length -1 );
+            var result = BubbleSort.Algorithm(Array);
             foreach(int i in result)
             {
                 Console.WriteLine(i);
